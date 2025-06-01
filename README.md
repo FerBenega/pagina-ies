@@ -1,4 +1,3 @@
-# ies
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -15,7 +14,7 @@
     .logo {
       margin: 40px auto 20px auto;
       display: block;
-      max-width: 300px;
+      max-width: 150px;
       width: 100%;
     }
     h1 {
@@ -39,6 +38,11 @@
 <body>
   <h1>Soy de Ies</h1>
   <img class="logo" src="https://www.ies21.edu.ar/img/logos_nuevos/LOGO_IES.png" alt="Logo IES">
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/MQYKEd1JahY" title="Video Español" allowfullscreen></iframe>
+  </div>
+</body>
+</html>
   <div class="video-container">
     <iframe src="https://www.youtube.com/embed/MQYKEd1JahY" title="Video Español" allowfullscreen></iframe>
   </div>
