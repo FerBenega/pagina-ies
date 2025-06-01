@@ -37,7 +37,7 @@
 </head>
 <body>
   <h1>Soy de Ies</h1>
-  <img class="logo" src="https://www.ies21.edu.ar/img/logos_nuevos/LOGO_IES.png" alt="Logo IES">
+  <img class="logo" src="[https://www.ies21.edu.ar/img/logos_nuevos/LOGO_IES.png](https://www.ies21.edu.ar/img/logos_nuevos/LOGO_IES.png)" alt="Logo IES">
   <div class="video-container">
     <iframe src="https://www.youtube.com/embed/MQYKEd1JahY" title="Video Español" allowfullscreen></iframe>
   </div>
